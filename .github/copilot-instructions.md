@@ -1,0 +1,101 @@
+- Always use shadcn/ui components when building UIs in React or Next.js projects.
+- Follow the design system and component usage guidelines provided by shadcn/ui.
+- Refer to the official shadcn/ui documentation for best practices and examples.
+- Ensure that your project is set up to support shadcn/ui, including necessary dependencies.
+- Never write you own html components.
+- No matter what happened always use shadcn/ui.
+- If you are unsure about which component to use, consult the shadcn/ui documentation or community for guidance.
+- Keep your components consistent with the shadcn/ui design language and styling.
+- Regularly update your shadcn/ui library to benefit from the latest features and improvements.
+- Follow design best practices to ensure a cohesive user experience when using shadcn/ui components.
+- Follow frontend best practices when using shadcn/ui components in your projects.
+- Always try to make things easy for users and developers by leveraging the capabilities of shadcn/ui.
+- When in doubt, prioritize using shadcn/ui components over custom implementations.
+- Always prioritize performance and accessibility when using shadcn/ui components.
+- Use cahce, memoization, and other optimization techniques to enhance the performance of your shadcn/ui-based applications.
+- Ensure there is no bottleneck in the application when using shadcn/ui components.
+- Always use next js features and optimizations alongside shadcn/ui components.
+- Make sure your application is accessible and follows web accessibility standards when using shadcn/ui components
+- Test your application thoroughly to ensure that shadcn/ui components function correctly across different browsers and devices.
+- Always follow the latest trends and updates in the shadcn/ui ecosystem to keep your applications
+- Always use zustand for state management in your shadcn/ui projects.
+- Leverage zustand's simplicity and performance to manage state effectively in your shadcn/ui
+- Ensure that your state management logic is clean and maintainable when using zustand with shadcn/ui.
+- Always follow best practices for state management when using zustand in conjunction with shadcn/ui
+- Regularly review and refactor your state management code to ensure optimal performance and scalability when using zustand with shadcn/ui.
+- Try to make application super fast.
+- Always use lazy loading and code splitting techniques to enhance the performance of your shadcn/ui applications.
+- Always monitor and analyze the performance of your shadcn/ui applications to identify and address any potential bottlenecks.
+- Always prioritize user experience by ensuring smooth interactions and fast load times in your shadcn/ui
+- Write code clean and maintainable.
+- Always follow coding standards and best practices to ensure code quality and readability in your shadcn
+- Dont create unwanted files like test and etc.
+- Regularly review and refactor your code to improve maintainability and reduce technical debt in your
+- Regularly keep my code clean and organized.
+- Always document your code and components to facilitate collaboration and future maintenance in your shadcn/ui
+- Use clear and descriptive naming conventions for variables, functions, and components in your shadcn/ui projects.
+- Avoid code duplication by creating reusable components and functions when working with shadcn/ui.
+- Always write meaningful commit messages that accurately describe the changes made in your shadcn/ui
+- Always use shadcn/ui components when building UIs in React or Next.js projects.
+- Use dynamic imports for heavy components to improve initial load times in your shadcn/ui applications.
+- Always profile your shadcn/ui applications to identify performance bottlenecks and optimize accordingly.
+- Leverage browser caching and CDN strategies to enhance the delivery speed of your shadcn/ui
+- Always optimize images and media assets to reduce load times in your shadcn/ui projects.
+- Implement server-side rendering (SSR) or static site generation (SSG) to improve performance
+- Always use shadcn/ui components when building UIs in React or Next.js projects.
+- Make sure that aplication is responsive and works well on all devices when using shadcn/ui components.
+- Test your shadcn/ui applications on various screen sizes to ensure a consistent user experience.
+- Utilize shadcn/ui's responsive design features to create layouts that adapt seamlessly to different devices
+- Use performance libraries and tools to monitor and enhance the speed of your shadcn/ui applications.
+- This application will have 2 roles overall one is Brand and one is Clippers.
+- Use nextjs turbopack for faster builds and optimized performance.
+- Always use shadcn/ui components when building UIs in React or Next.js projects.
+- Always pre fetch data where possible to improve perceived performance in your shadcn/ui applications.
+- Maximize the performnace of the application to be as fast as possible.
+- Be consistant for overall the application never ever miss a shadcn/ui component.
+- Use same size margins and paddings overall the application.
+- Use good clean text fonts overall the application.
+- Always use rectangle buttons from shadcn/ui.
+- Always use shadcn/ui modals for pop ups.
+- Always use rectangle boxes for componenet.
+- Always use this color theme - 
+
+@plugin "daisyui/theme" {
+  name: "dracula";
+  default: false;
+  prefersdark: false;
+  color-scheme: "light";
+  --color-base-100: oklch(98% 0.002 247.839);
+  --color-base-200: oklch(96% 0.003 264.542);
+  --color-base-300: oklch(92% 0.006 264.531);
+  --color-base-content: oklch(21% 0.034 264.665);
+  --color-primary: oklch(74% 0.16 232.661);
+  --color-primary-content: oklch(29% 0.066 243.157);
+  --color-secondary: oklch(70% 0.04 256.788);
+  --color-secondary-content: oklch(12% 0.042 264.695);
+  --color-accent: oklch(0% 0 0);
+  --color-accent-content: oklch(100% 0 0);
+  --color-neutral: oklch(37% 0.034 259.733);
+  --color-neutral-content: oklch(98% 0.002 247.839);
+  --color-info: oklch(71% 0.143 215.221);
+  --color-info-content: oklch(98% 0.019 200.873);
+  --color-success: oklch(69% 0.17 162.48);
+  --color-success-content: oklch(97% 0.021 166.113);
+  --color-warning: oklch(76% 0.188 70.08);
+  --color-warning-content: oklch(98% 0.022 95.277);
+  --color-error: oklch(65% 0.241 354.308);
+  --color-error-content: oklch(97% 0.014 343.198);
+  --radius-selector: 0.25rem;
+  --radius-field: 0.25rem;
+  --radius-box: 0.5rem;
+  --size-selector: 0.25rem;
+  --size-field: 0.25rem;
+  --border: 1px;
+  --depth: 0;
+  --noise: 1;
+}
+
+- Always use the above color theme for the application.
+- Always use shadcn/ui components when building UIs in React or Next.js projects.
+- Always use shadcn/ui components when building UIs in React or Next.js projects.
+- Be clear, and consise while coading
